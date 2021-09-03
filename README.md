@@ -13,13 +13,19 @@
 Станции не могут образовывать повороты, т.е. чтобы соединить станцию с двумя другими путями, нужно чтобы эти пути примыкали к клетке со станцией с противоположных концов.
 
 Примеры того как правильно соединять станции:
+
 ![image](https://user-images.githubusercontent.com/72488586/131981912-e54be0d6-7a46-41aa-843e-d97a839b335d.png)
+
 ![image](https://user-images.githubusercontent.com/72488586/131982192-5f584763-2b52-4a9c-9d32-6a36d91a7a48.png)
+
 ![image](https://user-images.githubusercontent.com/72488586/131982291-3bcfe0c1-294b-4c90-8ed5-04940e4d9f52.png)
 
 Примеры того как не правильно соединять станции:
+
 ![image](https://user-images.githubusercontent.com/72488586/131982343-b992882e-c374-40de-bf19-fe089be9cd41.png)
+
 ![image](https://user-images.githubusercontent.com/72488586/131982404-f508889b-2509-4980-a2c5-f440bd051c9a.png)
+
 ![image](https://user-images.githubusercontent.com/72488586/131982443-702850d8-a46f-436c-8458-d211cddf90a5.png)
 
 
