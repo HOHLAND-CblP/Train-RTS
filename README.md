@@ -1,4 +1,5 @@
 # Train RTS (Project G)
+Код игры:
 https://github.com/HOHLAND-CblP/Project_G
 
 # Об игре
